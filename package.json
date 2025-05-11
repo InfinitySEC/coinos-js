@@ -1,0 +1,15 @@
+{
+  "name": "coinos-js",
+  "version": "1.0.0",
+  "description": "A simple lib for coinos api",
+  "license": "MIT",
+  "author": "r3tr0boy",
+  "type": "module",
+  "main": "lib/coinos.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
