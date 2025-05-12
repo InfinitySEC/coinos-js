@@ -2,6 +2,14 @@
   "name": "coinos-js",
   "version": "1.0.0",
   "description": "A simple lib for coinos api",
+  "homepage": "https://github.com/InfinitySEC/coinos-js#readme",
+  "bugs": {
+    "url": "https://github.com/InfinitySEC/coinos-js/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/InfinitySEC/coinos-js.git"
+  },
   "license": "MIT",
   "author": "r3tr0boy",
   "type": "module",
